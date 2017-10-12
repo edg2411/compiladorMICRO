@@ -23,7 +23,7 @@ Realizado para la materia Sintaxis y Semántica de los Lenguajes - [Universidad 
 **Autores:**
 - Liloia Scott, Nicolás.
 - Masotta, Augusto.
-- Mendez Corridoni, Matías.
+- [Mendez Corridoni, Matías](https://github.com/CorridoniMatias).
     
 Año 2017.
 
