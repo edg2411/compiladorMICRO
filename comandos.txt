@@ -1,0 +1,11 @@
+Comandos a ejecutar para compilar el compilador de MICRO:
+1.    lex <archivo LEX>
+2.    yacc -d <archivo YACC>
+3.    cc lex.yy.c y.tab.c -o compiladorMICRO 
+4.    ./compiladorMICRO <source_micro>
+
+Con los archivos ejemplo incluidos:
+1.    lex lex_micro.l
+2.    yacc -d yacc_micro.y
+3.    cc lex.yy.c y.tab.c -o compiladorMICRO 
+4.    ./compiladorMICRO src.mk

@@ -1,0 +1,20 @@
+Este es un compilador para el lenguaje MICRO. Los comandos a ejecutar para poder tener el compilador están en comandos.txt
+
+Descripcion de archivos incluidos:
+    - comandos.txt      Archivo de comandos para compilar el compilador de MICRO.
+    - compiladorMICRO   Ejecutable del compilador de MICRO ya compilado. Se puede ejecutar de la siguiente forma: ./compiladorMICRO <source>
+    - lex_micro.l       Contiene las definiciones LEXICAS de MICRO. Este es el archivo a compilar con LEX.
+    - yacc_micro.y      Contiene las definiciones SINTACTICAS (gramática) y las RUTINAS SEMANTICAS. Este es el archivo a compilar con YACC.
+    - src.mk            Contiene un programa ejemplo de MICRO.
+    
+* Los archivos y.tab.c, y.tab.h y lex.yy.c son los archivos que genera LEX y YACC al compilar.
+
+
+Realizado para la materia Sintaxis y Semántica de los Lengajes - Universidad Tecnológica Nacional Facultad Regional Buenos Aires
+
+Autores:
+    - Liloia Scott, Nicolás.
+    - Masotta, Augusto.
+    - Mendez Corridoni, Matías.
+    
+Año 2017.
